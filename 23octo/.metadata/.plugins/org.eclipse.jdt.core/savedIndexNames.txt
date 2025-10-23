@@ -1,0 +1,4 @@
+INDEX VERSION 1.134+C:\Users\ADMIN\Desktop\Diwali Assignments\23octo\.metadata\.plugins\org.eclipse.jdt.core
+3443444294.index
+3542319624.index
+1865797976.index
